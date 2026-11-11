@@ -2,7 +2,7 @@ import os
 import telebot
 
 # Токен, который дал BotFather (лучше вставлять напрямую или через переменные окружения)
-TOKEN = "ЗДЕСЬ_ВСТАВЬТЕ_ВАШ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "9173918908:AAH5X-3SGNcu-79pmzXNbJ1lqEk4T6H35KQ"
 
 bot = telebot.TeleBot(TOKEN)
 
