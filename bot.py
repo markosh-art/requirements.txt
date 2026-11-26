@@ -22,7 +22,7 @@ threading.Thread(target=run_server, daemon=True).start()
 # ===============================================================
 
 # ТОКЕН БОТА (можно заменить или оставить здесь)
-TOKEN = "9173918908:AAH5X-3SGNcu-79pmzXNbJ1lqEk4T6H35KQ"
+TOKEN = "9173918908:AAEPCIFmf4Nvpmq3jJ0bEfYUVPJ-U1hrOs8"
 bot = telebot.TeleBot(TOKEN)
 
 # Временное хранилище шагов пользователя для корзины в боте
